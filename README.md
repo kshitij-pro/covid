@@ -1,3 +1,3 @@
 # covid
 Web scrapping, Visualizing, and Understanding covid data
-![](/images/covid_image.png)
+![](https://github.com/kshitij-pro/covid/blob/main/images/covid_image.png)
