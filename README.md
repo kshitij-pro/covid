@@ -1,2 +1,3 @@
 # covid
-Webscrapping, Visualizing and Understanding covid data
+Web scrapping, Visualizing, and Understanding covid data
+![](/images/covid_image.png)
