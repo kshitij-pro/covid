@@ -2,3 +2,5 @@
 📈 Web scrapping, Visualizing, and Understanding covid data of India. Data from https://api.covid19india.org/data.json
 
 ![](/images/covid-image.png)
+
+![](/images/Screenshot%20(65).png)
